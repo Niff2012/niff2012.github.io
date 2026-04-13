@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /nocrawl
-Allow: *
-
-Sitemap: http://www.niff2012.github.io/sitemap.xml
