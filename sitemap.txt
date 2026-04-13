@@ -1,9 +1,0 @@
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  SeoSos.nl XML sitemap generator  -->
-<!--  https://www.seosos.nl/xml-sitemap-generator  -->
-<url>
-<loc>https://niff2012.github.io/</loc>
-<changefreq>daily</changefreq>
-<lastmod>2026-04-13</lastmod>
-</url>
-</urlset>
