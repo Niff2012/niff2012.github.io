@@ -1,8 +1,15 @@
 {#/
 # info about the versions of my Sites, API and Games
+
 /$/
 Data_version:0.01
+
 /!/
 versions:
-(API=0.01)
+(
+API=0.01
+&Site=0.1
+&DC-Zombies=0.0.1
+
+)
 }
