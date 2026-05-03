@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://niff2012.github.io/</loc>
+</url>
+<url>
+  <loc>https://niff2012.github.io/site</loc>
+</url>
+<url>
+  <loc>https://niff2012.github.io/site/projects</loc>
+</url>
+<url>
+  <loc>https://niff2012.github.io/site/projects/screensaver</loc>
+</url>
+<url>
+  <loc>https://niff2012.github.io/site/devevlopers</loc>
+</url>
+<url>
+  <loc>https://niff2012.github.io/site/projects/blipz</loc>
+</url>
+
+</urlset>
