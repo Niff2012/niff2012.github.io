@@ -1,13 +1,13 @@
-{4/
+{4\
 
-Note/
+Note\
 this file is for my projects to look at the version to see and auto-update.
 it is info about the versions of my Sites, API and Games
 
-/Variable/
+\Variable\
 Data_version:0.01
 
-/List/
+\List\
 versions:
 (
 API=1
