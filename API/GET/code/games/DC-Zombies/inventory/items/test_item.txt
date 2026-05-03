@@ -4,8 +4,8 @@ Note\
 this file is a test item and wil be deleted later
 
 \Item\
+
 (
-name=apple
 &skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/Apple.svg
 
 )
