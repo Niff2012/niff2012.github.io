@@ -1,4 +1,4 @@
-{9/data/
+{4/
 
 Note/
 this file is for my projects to look at the version to see and auto-update.
@@ -10,9 +10,9 @@ Data_version:0.01
 /List/
 versions:
 (
-API=0.01
-&Site=0.01
-&DC-Zombies=0.01
+API=1
+&Site=1
+&DC-Zombies=1
 )
 
 }
