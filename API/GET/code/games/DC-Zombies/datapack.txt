@@ -1,7 +1,7 @@
 {4\
 
 Note\
-this file is for test items
+this file a test
 
 \get.data\
 https://niff2012.github.io/API/GET/code/games/DC-Zombies/inventory/items/test_items.txthttps://niff2012.github.io/API/GET/code/games/DC-Zombies/inventory/items/test_items.txt
