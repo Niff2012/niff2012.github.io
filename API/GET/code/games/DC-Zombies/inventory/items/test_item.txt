@@ -12,7 +12,7 @@ skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/
 \Item\
 empty:
 (
-skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/empty.svg
+skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/Empty.svg
 )
 
 }
