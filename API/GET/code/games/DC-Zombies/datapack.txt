@@ -3,6 +3,12 @@
 Note\
 this file a test
 
+\Item\
+empty:
+(
+skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/Empty.svg
+)
+
 \get.data\
 https://niff2012.github.io/API/GET/code/games/DC-Zombies/inventory/items/test_items.txt
 
