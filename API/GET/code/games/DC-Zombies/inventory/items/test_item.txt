@@ -7,7 +7,12 @@ this file is a test item
 apple:
 (
 skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/Apple.svg
+)
 
+\Item\
+empty:
+(
+skin=https://niff2012.github.io/API/GET/assets/games/DC-Zombies/inventory/items/empty.svg
 )
 
 }
