@@ -1,7 +1,7 @@
 {4\
 
 Note\
-this file is a test item
+this file is for test items
 
 \Item\
 apple:
