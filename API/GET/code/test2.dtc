@@ -3,8 +3,8 @@
 main_menu\
 test:
 (
-skin=https://niff2012.github.io/API/GET/assets/tmp/button1
-skin.touching=https://niff2012.github.io/API/GET/assets/tmp/button2
+skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
+skin.touching=https://niff2012.github.io/API/GET/assets/tmp/button2.svg
 &x=0
 &y=0
 &size=300
