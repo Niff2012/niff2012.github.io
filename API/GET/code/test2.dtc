@@ -1,4 +1,13 @@
-{4\
-button
+{3
+\button\
+test:
+(
+skin=hello
+x=0
+y=0
+size=300
+if.clicked=test
+size.touching=100
+)
 
 }
