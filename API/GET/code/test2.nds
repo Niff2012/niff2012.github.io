@@ -10,7 +10,7 @@ skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &size=300
 &if.clicked=broadcast
 &action=test
-&size.touching=100
+&size.touching=25
 )
 
 }
