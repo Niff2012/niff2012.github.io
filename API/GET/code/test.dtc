@@ -2,6 +2,6 @@
 \If\
 text\
 current_url:https://studio.penguinmod.com/editor.html
-\get.data
-
+\get.data\
+https://niff2012.github.io/API/GET/versions_data.txt
 }
