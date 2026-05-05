@@ -1,5 +1,6 @@
 {3
 \If\
+%:0\
 current_url:https://studio.penguinmod.com/editor.html
 \get.data
 
