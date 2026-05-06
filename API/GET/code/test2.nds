@@ -8,8 +8,22 @@ skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &x=0
 &y=0
 &size=300
-&if.clicked=broadcast
-&action=test
+&if.clicked=set.menu
+&action=testmenu
+&size.touching=25
+)
+
+\button\
+main_menu\
+test2:
+(
+skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
+&skin.touching=https://niff2012.github.io/API/GET/assets/tmp/button2.svg
+&x=0
+&y=150
+&size=300
+&if.clicked=set.menu
+&action=mainmenu
 &size.touching=25
 )
 
