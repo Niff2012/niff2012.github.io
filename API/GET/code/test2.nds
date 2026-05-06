@@ -9,12 +9,12 @@ skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &y=0
 &size=300
 &if.clicked=set.menu
-&action=testmenu
+&action=test_menu
 &size.touching=25
 )
 
 \button\
-main_menu\
+test_menu\
 test2:
 (
 skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
