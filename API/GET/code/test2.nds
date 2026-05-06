@@ -20,7 +20,7 @@ test2:
 skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &skin.touching=https://niff2012.github.io/API/GET/assets/tmp/button2.svg
 &x=0
-&y=150
+&y=70
 &size=300
 &if.clicked=set.menu
 &action=main_menu
