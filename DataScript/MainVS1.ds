@@ -7,7 +7,7 @@ bar:
 (
 skin=https://niff2012.github.io/assets/site/topbar.svg
 &x=0
-&y=1000
+&y=480
 &size=100
 )
 
@@ -17,12 +17,12 @@ button:
 (
 skin=https://niff2012.github.io/assets/site/logo.svg
 &skin.touching=https://niff2012.github.io/assets/site/logo.svg
-&x=100
-&y=100
+&x=110
+&y=120
 &size=300
 &if.clicked=noting
 &action=empty
-&size.touching=100
+&size.touching=25
 )
 
 }
