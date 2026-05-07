@@ -1,8 +1,11 @@
 {3
 \background:#794900
-\object\main_menu\
+
+\object\
+main_menu\
 bar:
-(skin=https://niff2012.github.io/assets/site/ncc/top-bar.svg
+(
+skin=https://niff2012.github.io/assets/site/ncc/top-bar.svg
 &x=0
 &y=180
 &size=100
