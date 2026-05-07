@@ -5,7 +5,7 @@
 main_menu\
 bar:
 (
-skin=https://niff2012.github.io/assets/site/ncc/top-bar.svg
+skin=https://niff2012.github.io/assets/site/topbar.svg
 &x=0
 &y=180
 &size=100
