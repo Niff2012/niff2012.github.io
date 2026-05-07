@@ -22,8 +22,8 @@ skin=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &x=0
 &y=70
 &size=300
-&if.clicked=set.menu
-&action=main_menu
+&if.clicked=set.url
+&action=https://niff2012.github.io/API/GET/assets/tmp/button1.svg
 &size.touching=25
 )
 
