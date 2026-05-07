@@ -1,5 +1,0 @@
-{3
-\If\text\
-current_url:https://studio.penguinmod.com/editor.html
-\get.data\https://niff2012.github.io/API/GET/code/test2.nds
-}
