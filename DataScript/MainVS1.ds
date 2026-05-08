@@ -1,5 +1,7 @@
 {3
-\background:#794900
+\DebugMode:true\
+
+background:#794900
 
 \object\
 main_menu\
